@@ -1,6 +1,7 @@
 # image-slider
 Image-slider using html , CSS , JS
 Features
+
 -Displays multiple images in a carousel format.
 -Smooth transitions between images.
 -Responsive design for optimal viewing on all devices.
